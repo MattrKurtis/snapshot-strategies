@@ -1,4 +1,4 @@
-# Embr
+# erc20-balance-of
 
 This is the most common strategy, it returns the balances of the voters for a specific ERC20 token.
 
